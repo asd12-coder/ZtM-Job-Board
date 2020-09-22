@@ -16928,5 +16928,19 @@ export const data = {
         country: "Brazil",
       },
     },
+    {
+      id: uuidv4(),
+      name: "Sagar Giri",
+      links: {
+        linkedin: "https://www.linkedin.com/in/sagar-kumar-giri-74baba178//",
+        github: "https://github.com/asd12-coder",
+      },
+      jobTitle: "Full Stack javascript developer",
+      location: {
+        city: "Port Blair",
+        state: "Andaman and Nicobar island",
+        country: "India",
+      },
+    }
   ],
 }
